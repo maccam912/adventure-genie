@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "text": "Once upon a time, in a vibrant forest filled with whispering trees and sparkling streams, there lived a curious little rabbit named Remy.",
+    "alt": "A lush, green forest with a small, inquisitive rabbit peering out from a burrow.",
+    "imageUrl": "page1.png",
+    "audioUrl": "page1.mp3"
+  },
+  {
+    "id": 2,
+    "text": "Remy loved exploring. Every morning, he would wiggle his nose, twitch his whiskers, and hop out into the forest, wondering, \"What new thing will I discover today?\"",
+    "alt": "Remy, with a backpack, hopping eagerly along a forest path.",
+    "imageUrl": "page2.png",
+    "audioUrl": "page2.mp3"
+  },
+  {
+    "id": 3,
+    "text": "One sunny morning, Remy found something unusual: a shiny, round object half-buried under a bush.",
+    "alt": "Remy looking curiously at a half-buried, shiny object.",
+    "imageUrl": "page3.png",
+    "audioUrl": "page3.mp3"
+  },
+  {
+    "id": 4,
+    "text": "It was a compass! Remy had never seen one before. \"This must be a tool for explorers!\" he exclaimed.",
+    "alt": "A close-up of Remy examining the compass with awe.",
+    "imageUrl": "page4.png",
+    "audioUrl": "page4.mp3"
+  },
+  {
+    "id": 5,
+    "text": "With the compass in his paws, Remy decided to go on his greatest adventure yet. He wanted to find the fabled Rainbow Waterfall, a place no rabbit had ever reached.",
+    "alt": "A determined Remy, with the compass, looking at a map.",
+    "imageUrl": "page5.png",
+    "audioUrl": "page5.mp3"
+  },
+  {
+    "id": 6,
+    "text": "He hopped through the forest, following the compass needle. On his way, he met Lily, a wise old turtle.",
+    "alt": "Remy talking to Lily the turtle, who is wearing glasses and carrying a book.",
+    "imageUrl": "page6.png",
+    "audioUrl": "page6.mp3"
+  },
+  {
+    "id": 7,
+    "text": "\"The Rainbow Waterfall is a magical place,\" Lily said. \"But remember, the journey is more important than the destination.\"",
+    "alt": "Lily pointing to a path with her flipper, with Remy listening intently.",
+    "imageUrl": "page7.png",
+    "audioUrl": "page7.mp3"
+  },
+  {
+    "id": 8,
+    "text": "Remy kept hopping, his heart full of excitement. He crossed rivers, climbed hills, and went through thick bushes.",
+    "alt": "Remy bravely overcoming various natural obstacles.",
+    "imageUrl": "page8.png",
+    "audioUrl": "page8.mp3"
+  },
+  {
+    "id": 9,
+    "text": "As he traveled, he found friends who needed help. He stopped each time, using his compass and wit to help them.",
+    "alt": "Remy helping a group of animals who are lost, using the compass.",
+    "imageUrl": "page9.png",
+    "audioUrl": "page9.mp3"
+  },
+  {
+    "id": 10,
+    "text": "Soon, Remy realized that helping others made his journey even more exciting. He felt happy and proud.",
+    "alt": "A joyful Remy, surrounded by grateful animal friends.",
+    "imageUrl": "page10.png",
+    "audioUrl": "page10.mp3"
+  },
+  {
+    "id": 11,
+    "text": "After many days, Remy finally saw a stunning rainbow in the distance. He knew he was close.",
+    "alt": "Remy on a hilltop, with a rainbow and waterfall visible in the far distance.",
+    "imageUrl": "page11.png",
+    "audioUrl": "page11.mp3"
+  },
+  {
+    "id": 12,
+    "text": "When he arrived, the Rainbow Waterfall was more beautiful than he had imagined. Colors danced in the mist, and the air was filled with magic.",
+    "alt": "The majestic Rainbow Waterfall, with vibrant colors and sparkling water.",
+    "imageUrl": "page12.png",
+    "audioUrl": "page12.mp3"
+  },
+  {
+    "id": 13,
+    "text": "As he sat there, Remy realized what Lily meant. The journey had taught him so much. He had made friends and discovered his own bravery.",
+    "alt": "Remy sitting peacefully, reflecting near the waterfall.",
+    "imageUrl": "page13.png",
+    "audioUrl": "page13.mp3"
+  },
+  {
+    "id": 14,
+    "text": "With a heart full of memories and stories, Remy decided to head back home. He knew he had many adventures ahead of him.",
+    "alt": "Remy starting his journey back, the waterfall in the background.",
+    "imageUrl": "page14.png",
+    "audioUrl": "page14.mp3"
+  },
+  {
+    "id": 15,
+    "text": "When he returned, Remy shared his stories with everyone. The other rabbits listened in awe to his tales of the magical waterfall and the friends he made.",
+    "alt": "Remy, animatedly telling his story to a group of other rabbits.",
+    "imageUrl": "page15.png",
+    "audioUrl": "page15.mp3"
+  },
+  {
+    "id": 16,
+    "text": "And so, Remy the little rabbit became Remy the brave explorer, ready for his next big adventure.",
+    "alt": "Remy, looking happy and confident, gazing at the horizon with his compass and map in hand.",
+    "imageUrl": "page16.png",
+    "audioUrl": "page16.mp3"
+  }
+]

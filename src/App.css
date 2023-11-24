@@ -1,0 +1,66 @@
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fullscreen background image */
+.page-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  /* background-size: cover; */
+  background-position: center;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+.text {
+  /* position centered at the top of the page */
+  position: absolute;
+  top: 0%;
+  /* left: 50%; */
+  /* transform: translate(-50%, -50%); */
+  /* Styling */
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+/* Position the buttons at the bottom right */
+.buttons {
+  position: absolute;
+  right: 20px; /* 20px from the right */
+  bottom: 20px; /* 20px from the bottom */
+  z-index: 10; /* Ensures the buttons are above the background image */
+}
+
+/* Styling for each button */
+.button {
+  background-color: #4CAF50; /* Green background */
+  border: none;
+  color: white; /* White text */
+  padding: 15px 32px; /* Top and bottom padding, Left and right padding */
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 0 5px; /* Spacing between buttons */
+  cursor: pointer;
+  border-radius: 8px; /* Rounded corners */
+  transition: background-color 0.3s, transform 0.3s; /* Smooth transition for hover effect */
+  outline: none; /* Removes the outline to keep the style clean */
+}
+
+.button:hover {
+  background-color: #45a049; /* Darker shade of green */
+  transform: scale(1.1); /* Slightly increase the size */
+}
+
+.button:disabled {
+  background-color: #ccc; /* Grey out the button */
+  cursor: not-allowed;
+  transform: none; /* Reset the transform on disabled buttons */
+}
