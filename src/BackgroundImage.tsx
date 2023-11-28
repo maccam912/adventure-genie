@@ -1,4 +1,3 @@
-import React from 'react';
 import './BackgroundImage.css'; // Assuming you have a separate CSS file for styles
 
 const BackgroundImage = ({ imageUrl, alt }: {imageUrl: string, alt: string}) => {
